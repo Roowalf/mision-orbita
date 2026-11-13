@@ -1,0 +1,9 @@
+mision-orbita/
+├── avance1/
+├── avance2/
+│   ├── ejercicio5_destino.py          ← Edgar
+│   ├── ejercicio6_viaje.py            ← Chávez
+│   ├── ejercicio7_exploracion.py      ← Chávez
+│   └── ejercicio8_regreso.py          ← Francisco
+├── documentacion/
+└── README.md
