@@ -4,7 +4,8 @@ Proyecto desarrollado para el curso **SOFT-01: Principios de Programación 1** (
 
 ## Integrantes del Grupo
 * Mario José Chaves Eraso
-* (Nombre y Apellidos del compañero)
+* edgar luis alfaro quiros
+* Jose francisco
 
 ---
 
